@@ -10,7 +10,6 @@ SENIOR VICE PRESIDENT, HEAD OF CREATIVE TECHNOLOGY AND INNOVATION, MARCH 2019–
 
 **Responsibilities**
 -   Provided guidance and thought leadership for matters relating to emerging technology, including the development of creative digital programs, new business pitches, social media programs, media, OOH, client education, agency education and external communications such as press and blog posts.
-    
 -   Lead a small team of creative technologists from varied disciplines such as social management and digital strategy.
 -   Provides dedicated operational and technical leadership on several flagship brands, including managing the execution of digital programs.
 -   Agency contact for all emerging technology partners, including meeting with and evaluating startups for potential business opportunities.
