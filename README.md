@@ -115,25 +115,25 @@ Bachelor of Fine Arts, Graphic Design Program
 
 **Awards**
 - Westworld: The Maze
---   BRONZE - Cannes Lions - Media/Entertainment Radio/Audio 
---   GOLD - Cannes Lions - Best of Digital Craft
---   GRAND PRIX - Cannes Lions - Radio / Audio
---   SILVER - Cannes Lions - Branded Content / Podcasts
---   One Show GOLD: BEST OF DIGITAL CRAFT
+-- BRONZE - Cannes Lions - Media/Entertainment Radio/Audio 
+-- GOLD - Cannes Lions - Best of Digital Craft
+-- GRAND PRIX - Cannes Lions - Radio / Audio
+-- SILVER - Cannes Lions - Branded Content / Podcasts
+-- One Show GOLD: BEST OF DIGITAL CRAFT
 -- Clio - SILVER Winner Digital/Mobile Games
 
 - Adaptoys
---   Project Isaac Innovation Award for Product Development – GOLD
---   Cannes Cyber Lion SILVER
+-- Project Isaac Innovation Award for Product Development – GOLD
+-- Cannes Cyber Lion SILVER
     
 - NatGeo Bravo Tango
---   One Show GOLD Winner
---   Webby - Best use of Machine Learning
+-- One Show GOLD Winner
+-- Webby - Best use of Machine Learning
 
 - Canon Photo Coach
---   Cannes Cyber Lion - SILVER
+-- Cannes Cyber Lion - SILVER
 -- Cannes Lion BRONZE – Outdoor: Ambient Use of Digital Technology
---   One Show SILVER Pencil - Data-Driven Personalization
+-- One Show SILVER Pencil - Data-Driven Personalization
 
 - Oreo Blackout Tweet
 -- Gold Pencil – One Show
