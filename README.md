@@ -6,12 +6,9 @@
 **Experience**
 
 **BIG SPACESHIP** 
-SENIOR VICE PRESIDENT, HEAD OF CREATIVE TECHNOLOGY AND INNOVATION 
-MARCH 2019–APRIL 2020 
-NEW YORK, NY
+SENIOR VICE PRESIDENT, HEAD OF CREATIVE TECHNOLOGY AND INNOVATION, MARCH 2019–APRIL 2020, NEW YORK, NY
 
 **Responsibilities**
-
 -   Provided guidance and thought leadership for matters relating to emerging technology, including the development of creative digital programs, new business pitches, social media programs, media, OOH, client education, agency education and external communications such as press and blog posts.
     
 -   Lead a small team of creative technologists from varied disciplines such as social management and digital strategy.
@@ -19,14 +16,11 @@ NEW YORK, NY
 -   Agency contact for all emerging technology partners, including meeting with and evaluating startups for potential business opportunities.
 
 **Featured Work**
-
 -   Starbucks AR filter for Instagram - their highest performing social content of the Summer of 2019
 -   2019 Alexa Cup - Audience Favorite (NYC)  
 
 **360I**
-VICE PRESIDENT, HEAD OF INNOVATION TECHNOLOGY  
-SEPTEMBER 2014–MARCH 2019
-NEW YORK, NY
+VICE PRESIDENT, HEAD OF INNOVATION TECHNOLOGY, SEPTEMBER 2014–MARCH 2019, NEW YORK, NY
 
 **Responsibilities**
 -   Introduced the Innovation Discipline to 360i
@@ -55,10 +49,9 @@ NEW YORK, NY
 **Previous Experience**
 
  **360i**
-SENIOR TECHNICAL DIRECTOR
-FEBRUARY 2011-SEPTEMBER 2014  
-NEW YORK, NY
+SENIOR TECHNICAL DIRECTOR, FEBRUARY 2011-SEPTEMBER 2014, NEW YORK, NY
 
+**Responsibilities**
 -   Responsible for technology strategy and architecture recommendations
 -   Works side by side with creative teams, contributing to creative technical solutions, while managing feasibility issues and budget constraints
 -   Responsible for conducting technical requirements gathering, technical analysis and identification of key success metrics
@@ -71,13 +64,11 @@ NEW YORK, NY
 -   Up-to-date understanding of market trends and keen interest in following emerging technology
     
 **HUDSON DUSTERS**
-PRESIDENT AND CEO
-2006-2011
-NEW YORK, NY  
-  
+PRESIDENT, 2006-2011, NEW YORK, NY  
 
 Hudson Dusters, Inc., founded in 2006, was a company focused on developing multimedia applications, interactive and data-‐‐driven websites, and graphic design for print and the web.
 
+**Responsibilities**
 -   LAMP stack development for websites and distributable media
 -   Backend/database/SQL programming
 -   Windows and Unix Web server management
@@ -89,9 +80,9 @@ Hudson Dusters, Inc., founded in 2006, was a company focused on developing multi
 -   Creator and Administrator for Flash Freelancers, the largest LinkedIn group dedicated to freelance Flash Professionals.
     
 **NYCD**
-TECHNICAL DIRECTOR
-2003-2006
+TECHNICAL DIRECTOR, 2003-2006, NEW YORK, NY
 
+**Responsibilities**
 -   Lead a small team of creative and development staff producing Flash and Director based CDs, DVDs, and web-‐‐based interactive projects
 -   Graphic design
 -   Flash programming
@@ -99,10 +90,9 @@ TECHNICAL DIRECTOR
 -   Business development
     
 **MICROSOFT**
-ANALYST
-2001-2003
-SEATTLE, WA
+ANALYST, 2001-2003, SEATTLE, WA
 
+**Responsibilities**
 -   Administration of SAP R/3 database
 -   Critical systems monitoring and reporting
 -   Responsible for building and SQL Server 2000 software code
@@ -110,12 +100,10 @@ SEATTLE, WA
 -   Team education and technical presentations
 
 **Education**
-
 NEW MEXICO HIGHLANDS UNIVERSITY, NM - 1994
 Bachelor of Fine Arts, Graphic Design Program
 
 **Skills**
-
 -   Project Architecture and Management: UML, Visio, Specification Authoring
 -   Project Methodology: Agile/Scrum, Waterfall, Kanban
 -   Project Tracking: Atlassian Suite – JIRA / Confluence, Microsoft Project, Sifter, Basecamp, Trello
