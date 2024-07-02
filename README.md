@@ -9,11 +9,12 @@ With over 20 years of experience, Layne Harris is an accomplished leader in inte
 
 **VIA Agency, Portland, ME**  
 *Head of Creative Technology and Innovation*  
-September 2021 – Present
+September 2021 – June 2024
 
-- Leading the development of digital programs, Layne provides strategic guidance in emerging technology.
-- He oversees brand strategy, social media initiatives, and educational programs for clients and agency staff.
-- As the primary contact for technology partners, he evaluates and pursues new business opportunities.
+- Lead the development of digital programs, Layne provides strategic guidance in emerging technology.
+- Additional responsibilities- brand strategy, social media initiatives, and educational programs for clients and agency staff.
+- Primary contact for technology partners, evaluating new business opportunities.
+- Managed dev ops, QA, and developed in-house digital products, such as the VIA and VCL websites.
 
 **Big Spaceship, New York, NY**  
 *Senior Vice President, Head of Creative Technology and Innovation*  
