@@ -11,10 +11,10 @@ With over 20 years of experience, Layne Harris is an accomplished leader in inte
 *Head of Creative Technology and Innovation*  
 September 2021 – June 2024
 
-- Lead the development of digital programs, Layne provides strategic guidance in emerging technology.
-- Additional responsibilities- brand strategy, social media initiatives, and educational programs for clients and agency staff.
+- Lead the development of digital programs, provided strategic guidance in emerging technology.
 - Primary contact for technology partners, evaluating new business opportunities.
 - Managed dev ops, QA, and developed in-house digital products, such as the VIA and VCL websites.
+- Additional responsibilities- brand strategy, creative ideation, client relationships, social media initiatives, senior agency leadership, PR, new business, and educational programs for clients and agency staff.
 
 **Big Spaceship, New York, NY**  
 *Senior Vice President, Head of Creative Technology and Innovation*  
