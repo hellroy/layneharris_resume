@@ -32,6 +32,7 @@ September 2014 – March 2019
 
 ### Highlighted Projects
 
+- **Arm & Hammer Baking Soda's Mad Science Lab** – An educational gaming experience on Roblox.
 - **Westworld: The Maze** – An Amazon Alexa interactive gaming experience.
 - **Bravo Tango: Brain Training** – A Google Action for veterans, in collaboration with National Geographic.
 - **Adaptoys** – Developed accessible toys for the disabled, awarded a Silver Lion and One Show pencil.
