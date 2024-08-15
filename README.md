@@ -3,7 +3,7 @@
 ### Executive Leader in Creative Technology
 
 **Profile**  
-With over 20 years of experience, Layne Harris is an accomplished leader in interactive media. His expertise spans development, management, design, and innovation. Layne has collaborated with top-tier clients like HBO, Starbucks, Nestle, Oreo, and Canon, demonstrating a unique ability to drive forward-thinking projects.
+With over 20 years of experience, Layne Harris is an accomplished leader in interactive media & advertising. His expertise spans development, management, design, and innovation. Layne has collaborated with top-tier clients like HBO, Starbucks, Nestle, Oreo, and Canon, demonstrating a unique ability to drive forward-thinking marketing campaigns.
 
 ### Professional Experience
 
@@ -56,8 +56,18 @@ Bachelor of Fine Arts, Graphic Design Program (1994)
 ### Skills & Expertise
 
 - Expertise in project architecture and management, including Agile and Scrum methodologies.
-- Proficient in cloud frameworks and programming languages.
-- Skilled in analytics, 3D printing, VR, and creative technology tools.
+- Proficient in cloud frameworks and web-based programming languages.
+- Proficient in many graphic packages including Adobe Suite, Figma, Blender, etc…
+- Proficient with audio tools such as Ableton & Audacity.
+- Skilled in analytics, 3D modeling & printing, VR/AR, AI, hardware prototyping, and general creative technology tools.
+- Public speaking & teaching
+
+### Hobbies
+- Painting
+- Gaming
+- Finance & Investing
+- Outdoor activities (hiking, snowshoeing, canoeing)
+- Wood & metal working (beginner level)
 
 ### Awards & Honors
 
